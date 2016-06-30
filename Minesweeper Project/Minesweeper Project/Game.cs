@@ -131,7 +131,7 @@ namespace Minesweeper_Project
         {
             Clicks++;
             bool ok;
-            if (Clicks == 11)
+            if (Clicks == GridX*GridY - minenum)
             {
                 ok = true;
             }
