@@ -1,0 +1,17 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Minesweeper Project\obj\x86\Debug\Minesweeper_Project.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Minesweeper Project\obj\x86\Debug\Minesweeper Project.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\bin\Debug\Minesweeper Project.exe
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\bin\Debug\Minesweeper Project.pdb
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper_Project.Form1.resources
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper_Project.Properties.Resources.resources
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.exe
+C:\Users\admin\Desktop\Gyakorlat\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.pdb
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.exe
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.pdb
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\bin\Debug\Minesweeper Project.exe
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\bin\Debug\Minesweeper Project.pdb
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.csprojResolveAssemblyReference.cache
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper_Project.Form1.resources
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper_Project.Properties.Resources.resources
+C:\Users\adam0\Documents\Visual Studio 2015\Projects\Minesweeper Project\Minesweeper Project\obj\x86\Debug\Minesweeper Project.csproj.GenerateResource.Cache
